@@ -1,5 +1,3 @@
-# ID_Holidays
-
 ## Repositori Hari Libur Nasional Indonesia
 
 **README.md**
@@ -42,14 +40,25 @@ Anda dapat menggunakan data dalam repositori ini untuk berbagai keperluan, seper
 * Menghitung hari kerja dalam suatu periode.
 * Merencanakan perjalanan atau acara.
 
-**Kontribusi:**
+**Cara Penggunaan:**
 
-Repositori ini bersifat open-source, dan Anda dipersilakan untuk berkontribusi dengan menambahkan data untuk tahun-tahun lainnya atau memperbaiki data yang sudah ada. 
+1. **Akses data JSON:** Anda dapat mengakses data JSON secara langsung melalui URL berikut:
+
+    * **Data tahun 2024:** [https://github.com/NateScarlet/holiday-cn/blob/master/2024.json](https://github.com/NateScarlet/holiday-cn/blob/master/2024.json)
+
+2. **Gunakan data di aplikasi Anda:** Anda dapat menggunakan data JSON di aplikasi Anda dengan berbagai cara, seperti:
+
+    * Memuat data ke dalam database.
+    * Memproses data untuk menampilkan informasi yang relevan bagi pengguna.
+    * Menghitung hari kerja atau hari libur dalam suatu periode.
 
 **Catatan:**
 
 * Data dalam repositori ini dikumpulkan dari berbagai sumber dan mungkin tidak sepenuhnya akurat. 
 * Pastikan untuk selalu memeriksa sumber resmi untuk informasi terbaru.
-* Mohon dibantu pull request jika ada yang tidak sesuai, terima kasih.
 
 **Terima kasih telah menggunakan repositori ini!**
+
+**Kontribusi:**
+
+Repositori ini bersifat open-source, dan Anda dipersilakan untuk berkontribusi dengan menambahkan data untuk tahun-tahun lainnya atau memperbaiki data yang sudah ada. 
