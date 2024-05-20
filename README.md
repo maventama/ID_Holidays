@@ -46,10 +46,6 @@ Anda dapat menggunakan data dalam repositori ini untuk berbagai keperluan, seper
 
 Repositori ini bersifat open-source, dan Anda dipersilakan untuk berkontribusi dengan menambahkan data untuk tahun-tahun lainnya atau memperbaiki data yang sudah ada. 
 
-**Lisensi:**
-
-Repositori ini dilisensikan di bawah lisensi MIT.
-
 **Catatan:**
 
 * Data dalam repositori ini dikumpulkan dari berbagai sumber dan mungkin tidak sepenuhnya akurat. 
