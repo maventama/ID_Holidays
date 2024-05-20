@@ -44,7 +44,7 @@ Anda dapat menggunakan data dalam repositori ini untuk berbagai keperluan, seper
 
 1. **Akses data JSON:** Anda dapat mengakses data JSON secara langsung melalui URL berikut:
 
-    * **Data tahun 2024:** [https://github.com/NateScarlet/holiday-cn/blob/master/2024.json](https://github.com/NateScarlet/holiday-cn/blob/master/2024.json)
+    * **Data tahun 2024:** [https://github.com/NateScarlet/holiday-cn/blob/master/2024.json](https://raw.githubusercontent.com/maventama/ID_Holidays/main/2024.json)
 
 2. **Gunakan data di aplikasi Anda:** Anda dapat menggunakan data JSON di aplikasi Anda dengan berbagai cara, seperti:
 
