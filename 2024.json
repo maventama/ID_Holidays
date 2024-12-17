@@ -157,6 +157,12 @@
   },
   {
     "tanggal": "2024-12-25",
+    "judul": "Malam Raya Natal",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Memperingati kelahiran Yesus Kristus bagi umat Kristiani"
+  },
+  {
+    "tanggal": "2024-12-25",
     "judul": "Hari Raya Natal",
     "jenis": "Hari Libur Nasional",
     "deskripsi": "Memperingati kelahiran Yesus Kristus bagi umat Kristiani"
@@ -166,5 +172,11 @@
     "judul": "Cuti Bersama Hari Raya Natal",
     "jenis": "Hari Libur Nasional",
     "deskripsi": "Memperingati kelahiran Yesus Kristus bagi umat Kristiani"
+  },
+  {
+    "tanggal": "2024-12-31",
+    "judul": "Tahun Baru",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Memperingati Tahun Baru"
   }
 ]
