@@ -24,6 +24,12 @@
     "deskripsi": "Memperingati awal tahun baru bagi masyarakat Tionghoa"
   },
   {
+    "tanggal": "2025-03-28",
+    "judul": "Cuti Bersama Hari Raya Nyepi Tahun Baru Saka 1947",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Cuti Bersama Hari Raya Nyepi Tahun Baru Saka 1947"
+  },
+  {
     "tanggal": "2025-03-29",
     "judul": "Hari Suci Nyepi Tahun Baru Saka 1947",
     "jenis": "Hari Libur Nasional",
@@ -37,6 +43,30 @@
   },
   {
     "tanggal": "2025-04-01",
+    "judul": "Hari Raya Idul Fitri 1446 H",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Memperingati hari raya umat Islam setelah sebulan berpuasa"
+  },
+  {
+    "tanggal": "2025-04-02",
+    "judul": "Cuti Bersama Lebaran",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Cuti bersama untuk memperingati Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "2025-04-03",
+    "judul": "Cuti Bersama Lebaran",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Cuti bersama untuk memperingati Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "2025-04-04",
+    "judul": "Cuti Bersama Lebaran",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Cuti bersama untuk memperingati Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "2025-04-07",
     "judul": "Cuti Bersama Lebaran",
     "jenis": "Hari Libur Nasional",
     "deskripsi": "Cuti bersama untuk memperingati Hari Raya Idul Fitri"
@@ -60,8 +90,20 @@
     "deskripsi": "Memperingati kelahiran, pencerahan, dan wafatnya Buddha Gautama"
   },
   {
+    "tanggal": "2025-05-13",
+    "judul": "Cuti Bersama Hari Raya Waisak 2569 BE",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Memperingati kelahiran, pencerahan, dan wafatnya Buddha Gautama"
+  },
+  {
     "tanggal": "2025-05-29",
     "judul": "Kenaikan Isa Almasih",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Memperingati kenaikan Isa Almasih ke surga bagi umat Kristiani"
+  },
+  {
+    "tanggal": "2025-05-29",
+    "judul": "Cuti Bersama Kenaikan Yesus Kristus",
     "jenis": "Hari Libur Nasional",
     "deskripsi": "Memperingati kenaikan Isa Almasih ke surga bagi umat Kristiani"
   },
@@ -72,8 +114,14 @@
     "deskripsi": "Memperingati kelahiran Pancasila"
   },
   {
-    "tanggal": "2025-06-07",
+    "tanggal": "2025-06-06",
     "judul": "Hari Raya Idul Adha 1446 H",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Memperingati kesediaan Nabi Ibrahim untuk mengorbankan putranya sebagai bentuk ketaatan kepada Allah"
+  },
+  {
+    "tanggal": "2025-06-09",
+    "judul": "Cuti Bersama Hari Raya Idul Adha 1446H",
     "jenis": "Hari Libur Nasional",
     "deskripsi": "Memperingati kesediaan Nabi Ibrahim untuk mengorbankan putranya sebagai bentuk ketaatan kepada Allah"
   },
@@ -98,6 +146,12 @@
   {
     "tanggal": "2025-12-25",
     "judul": "Hari Raya Natal",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Memperingati kelahiran Yesus Kristus bagi umat Kristiani"
+  },
+  {
+    "tanggal": "2025-12-26",
+    "judul": "Cuti Hari Raya Natal",
     "jenis": "Hari Libur Nasional",
     "deskripsi": "Memperingati kelahiran Yesus Kristus bagi umat Kristiani"
   }
