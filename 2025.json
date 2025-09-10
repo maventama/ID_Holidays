@@ -73,9 +73,15 @@
   },
   {
     "tanggal": "2025-04-18",
-    "judul": "Jumat Agung",
+    "judul": "Wafat Yesus Kristus",
     "jenis": "Hari Libur Nasional",
     "deskripsi": "Memperingati wafatnya Yesus Kristus bagi umat Kristiani"
+  },
+  {
+    "tanggal": "2025-04-20",
+    "judul": "Kebangkitan Yesus Kristus",
+    "jenis": "Hari Libur Nasional",
+    "deskripsi": "Memperingati kebangkitan Yesus Kristus (Paskah) bagi umat Kristiani"
   },
   {
     "tanggal": "2025-05-01",
@@ -93,7 +99,7 @@
     "tanggal": "2025-05-13",
     "judul": "Cuti Bersama Hari Raya Waisak 2569 BE",
     "jenis": "Hari Libur Nasional",
-    "deskripsi": "Memperingati kelahiran, pencerahan, dan wafatnya Buddha Gautama"
+    "deskripsi": "Cuti bersama dalam rangka Hari Raya Waisak"
   },
   {
     "tanggal": "2025-05-29",
@@ -102,10 +108,10 @@
     "deskripsi": "Memperingati kenaikan Isa Almasih ke surga bagi umat Kristiani"
   },
   {
-    "tanggal": "2025-05-29",
-    "judul": "Cuti Bersama Kenaikan Yesus Kristus",
+    "tanggal": "2025-05-30",
+    "judul": "Cuti Bersama Kenaikan Isa Almasih",
     "jenis": "Hari Libur Nasional",
-    "deskripsi": "Memperingati kenaikan Isa Almasih ke surga bagi umat Kristiani"
+    "deskripsi": "Cuti bersama dalam rangka Kenaikan Isa Almasih"
   },
   {
     "tanggal": "2025-06-01",
@@ -121,9 +127,9 @@
   },
   {
     "tanggal": "2025-06-09",
-    "judul": "Cuti Bersama Hari Raya Idul Adha 1446H",
+    "judul": "Cuti Bersama Hari Raya Idul Adha 1446 H",
     "jenis": "Hari Libur Nasional",
-    "deskripsi": "Memperingati kesediaan Nabi Ibrahim untuk mengorbankan putranya sebagai bentuk ketaatan kepada Allah"
+    "deskripsi": "Cuti bersama dalam rangka Hari Raya Idul Adha"
   },
   {
     "tanggal": "2025-06-27",
@@ -153,6 +159,6 @@
     "tanggal": "2025-12-26",
     "judul": "Cuti Hari Raya Natal",
     "jenis": "Hari Libur Nasional",
-    "deskripsi": "Memperingati kelahiran Yesus Kristus bagi umat Kristiani"
+    "deskripsi": "Cuti bersama dalam rangka Hari Raya Natal"
   }
 ]
